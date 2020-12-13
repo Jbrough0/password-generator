@@ -4,3 +4,4 @@ I made sure the password length was no less then 8 characters and no more then 1
 I created a string in this format:
     var char = upperChar + lowerChar + numChars + specialChar:  This format was the string I used to make sure all the characters would appear in the password.  
     
+https://jbrough0.github.io/password-generator/
